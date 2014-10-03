@@ -1,0 +1,9 @@
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\bin\Quickie.dll.config
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\bin\Quickie.dll
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\bin\Quickie.pdb
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\bin\Quickie.xml
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\obj\Debug\Quickie.Resources.resources
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\obj\Debug\Quickie.vbproj.GenerateResource.Cache
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\obj\Debug\Quickie.dll
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\obj\Debug\Quickie.xml
+c:\users\muriel\documents\visual studio 2013\Projects\Quickie\Quickie\obj\Debug\Quickie.pdb

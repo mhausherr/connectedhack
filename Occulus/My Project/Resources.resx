@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    Le principal objectif de ce format est d'autoriser un format XML simple 
+    lisible. La génération et l'analyse des 
+    différents types de données sont effectuées via les classes TypeConverter 
+    associées aux types de données.
+    
+    Exemple :
+    
+    ... ado.net/XML headers  schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    Il existe des lignes "resheader" qui contiennent des paires 
+    nom/valeur simples.
+    
+    Chaque ligne de données contient un nom et une valeur. La ligne contient également un 
+    type ou mimetype. Le type correspond à une classe .NET qui prend en charge la conversion 
+    texte/valeur via l'architecture TypeConverter. 
+    Les classes qui ne prennent pas en charge cela, sont sérialisées et stockées avec le jeu 
+    mimetype.
+    
+    Le mimetype est utilisé pour les objets sérialisés et indique au 
+    ResXResourceReader comment ne plus persister l'objet. Cela n'est actuellement pas 
+    extensible. Pour un mimetype donné, la valeur doit être définie en conséquence :
+    
+    Remarque - application/x-microsoft.net.object.binary.base64 est le format 
+    que ResXResourceWriter générera, cependant, le lecteur peut 
+    lire n'importe lequel des formats répertoriés ci-dessous.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : L'objet doit être sérialisé avec 
+            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : puis encodé avec l'encodage base64.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : L'objet doit être sérialisé avec 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : puis encodé avec l'encodage base64.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : L'objet doit être sérialisé dans un tableau d'octets 
+            : à l'aide d'un System.ComponentModel.TypeConverter
+            : puis encodé avec un encodage base64.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+</root>
